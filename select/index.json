@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "我儘姫",
+  "base_artist": "ふじを",
+  "createdAt": "2026-02-25T11:04:25.268749Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "我儘姫",
+      "artist": "ふじを",
+      "has_synced": false,
+      "path": "select/pl_01_我儘姫_ふじを.txt"
+    }
+  ]
+}
